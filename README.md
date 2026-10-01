@@ -1,7 +1,6 @@
 ### Hi — I'm **Sean Murray** (`seancmry`)
 
-Automation engineer in **Berlin**. I build CRM/ERP workflows, analytics layers, and AI automation that ops teams can trust.
-
+Automation engineer in **Berlin**.
 ## How to browse
 
 **Find me**
