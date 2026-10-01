@@ -1,12 +1,6 @@
 ### Hi — I'm **Sean Murray** (`seancmry`)
 
-## The problem I work on
-
-Ops and GTM teams drown in manual CRM/ERP work and fragile automations. I build workflows, analytics layers, and AI helpers that people can **trust** — with clear checks before anything important is saved.
-
-## Who this profile is for
-
-Hiring managers, collaborators, and anyone who wants a short map of my public work.
+Automation engineer in **Berlin**. I build CRM/ERP workflows, analytics layers, and AI automation that ops teams can trust.
 
 ## How to browse
 
